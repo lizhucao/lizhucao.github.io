@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://lizhucao.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-07-23T12:34:17.323Z</updated>
+    <title>Lizhu&apos;s Home</title>
+    <updated>2019-07-29T16:16:15.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://lizhucao.github.io"/>
     <link rel="self" href="http://lizhucao.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>http://lizhucao.github.io/images/avatar.png</logo>
     <icon>http://lizhucao.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, Lizhu&apos;s Home</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://lizhucao.github.io/post/hello-gridea</id>
