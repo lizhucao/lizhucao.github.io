@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://lizhucao.github.io</id>
+    <id>C:/Users/xuguangying/Documents/Gridea/output</id>
     <title>Lizhu&apos;s Home</title>
-    <updated>2019-08-12T06:25:08.305Z</updated>
+    <updated>2019-08-12T06:25:26.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://lizhucao.github.io"/>
-    <link rel="self" href="http://lizhucao.github.io/atom.xml"/>
+    <link rel="alternate" href="C:/Users/xuguangying/Documents/Gridea/output"/>
+    <link rel="self" href="C:/Users/xuguangying/Documents/Gridea/output/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://lizhucao.github.io/images/avatar.png</logo>
-    <icon>http://lizhucao.github.io/favicon.ico</icon>
+    <logo>C:/Users/xuguangying/Documents/Gridea/output/images/avatar.png</logo>
+    <icon>C:/Users/xuguangying/Documents/Gridea/output/favicon.ico</icon>
     <rights>All rights reserved 2019, Lizhu&apos;s Home</rights>
     <entry>
         <title type="html"><![CDATA[优惠券发放的产品设计]]></title>
-        <id>http://lizhucao.github.io/post/you-hui-quan-fa-fang-de-chan-pin-she-ji</id>
-        <link href="http://lizhucao.github.io/post/you-hui-quan-fa-fang-de-chan-pin-she-ji">
+        <id>C:/Users/xuguangying/Documents/Gridea/output/post/you-hui-quan-fa-fang-de-chan-pin-she-ji/index.html</id>
+        <link href="C:/Users/xuguangying/Documents/Gridea/output/post/you-hui-quan-fa-fang-de-chan-pin-she-ji/index.html">
         </link>
         <updated>2019-05-10T11:48:27.000Z</updated>
         <content type="html"><![CDATA[<h2 id="一丶需求背景">一丶需求背景</h2>
 <p>由于公司推广需求，现在需要设计一个针对新老用户发送优惠券的H5界面，用于微信里用户自发的分享传播。</p>
 <h2 id="二丶需求分析">二丶需求分析</h2>
 <p><strong>1.用户-场景-问题-现有解决方案梳理用户需求</strong><br>
-<img src="http://lizhucao.github.io/post-images/1565343514588.png" alt=""></p>
+<img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565343514588.png" alt=""></p>
 <p><strong>2.需求提炼</strong><br>
 需求筛选的维度：</p>
 <ol>
@@ -28,7 +28,7 @@
 <li>优先见效快且开发难度小的；</li>
 <li>用户的迫切程度，是不是真的需要；</li>
 <li>现有解决方案的弊端；<br>
-<img src="http://lizhucao.github.io/post-images/1565533831728.png" alt=""></li>
+<img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565533831728.png" alt=""></li>
 </ol>
 <p><strong>3.需求优先级排序</strong><br>
 优先级排序的维度：</p>
@@ -37,23 +37,23 @@
 <li>开发难度和效果</li>
 </ol>
 <p>划分象限因素进行排序，每个因素的权重数值为<strong>1~2</strong>，最后根据<strong>综合性价比来确定优先级</strong>。<br>
-<img src="http://lizhucao.github.io/post-images/1565535781195.png" alt=""><br>
-<img src="http://lizhucao.github.io/post-images/1565537043782.png" alt=""></p>
+<img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565535781195.png" alt=""><br>
+<img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565537043782.png" alt=""></p>
 <h2 id="三丶产品功能调研">三丶产品功能调研</h2>
 <p><strong>1.调研目的</strong><br>
 分析市面上头部竞品优惠券发放的功能，为团队设计提供依据，缩短产品设计的过程。</p>
 <p><strong>2.调研对象</strong><br>
 美团外卖丶瑞幸咖啡</p>
 <p><strong>3.功能业务逻辑</strong><br>
-<img src="http://lizhucao.github.io/post-images/1565578604129.png" alt=""><br>
+<img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565578604129.png" alt=""><br>
 <strong>美团：</strong> 消费者在美团APP中下单，订单完成结算后会生成一个红包H5界面，可将此界面分享至微信朋友圈或聊天窗口，此消费者和其他被分享的消费者可以进行抢红包，并可通过红包H5界面进入美团APP中。<br>
 <strong>瑞幸：</strong> 老用户首先可以在瑞幸咖啡APP中点击相应界面，生成免费咖啡券领取的H5页面，然后分享至微信聊天窗或朋友圈，作为新用户可以通过微信中的H5页面输入手机号领取免费咖啡券，并可直接跳转至瑞幸咖啡APP下单，下单成功后老用户也获得免费咖啡券；针对老用户和其他老用户之间，优惠券发放的逻辑同美团外卖。</p>
 <p><strong>4.产品功能对比</strong><br>
-<img src="http://lizhucao.github.io/post-images/1565578967325.png" alt=""><br>
+<img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565578967325.png" alt=""><br>
 <strong>相同点：</strong> 可分享、数量有限、领取时间有限、手机号领取和可跳转至APP。<br>
 <strong>不同点：</strong> 对于瑞幸咖啡来说，根据新用户和老用户采用了不同的优惠券形式和时间有效长度，且优惠券采用的是“折扣”的形式，由于目前主营饮品的业务，平均的客单价没有餐食类高，使用“折扣”的这种形式，能让用户在数字体现和心理上有一个较好的感受；对于美团外卖来说，优惠券采用“金额”的形式，且在时间和消费金额的门槛上要高些。<br>
 <strong>功能点对比：</strong><br>
-<img src="http://lizhucao.github.io/post-images/1565580711586.png" alt=""><br>
+<img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565580711586.png" alt=""><br>
 <strong>从优惠券领取通知的需求看：</strong> 两者的领取消息在微信聊天窗和朋友圈中呈现的信息基本一致。<br>
 <strong>从优惠券入口的需求看：</strong> 两者领取的入口都为H5页面，分享的入口瑞幸咖啡比美团更加丰富；<br>
 <strong>从优惠券玩法规则解释到位的需求看：</strong> 两者首先都呈现了基本的优惠券信息（金额、日期等），但由于美团涉及的优惠券种类偏多，单独加了“优惠券型”信息，瑞幸直接体现在了名称上；且由于美团会涉及一些商家的优惠券，点击优惠券可以直接进入商品选择页面，而瑞幸是需要在下单结算时才能选择该优惠券。<br>
@@ -65,14 +65,14 @@
 <h2 id="四丶需求目的">四丶需求目的</h2>
 <p>首先满足用户分享和领取优惠券的基本需求，增强用户体验，促进老用户下单消费，吸引更多新用户，最终实现APP的推广。</p>
 <h2 id="五丶功能列表">五丶功能列表</h2>
-<p><img src="http://lizhucao.github.io/post-images/1565589649860.png" alt=""></p>
+<p><img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565589649860.png" alt=""></p>
 <h2 id="六丶业务逻辑">六丶业务逻辑</h2>
-<p><img src="http://lizhucao.github.io/post-images/1565590144989.jpg" alt=""></p>
+<p><img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565590144989.jpg" alt=""></p>
 <h2 id="七丶业务流程">七丶业务流程</h2>
-<p><img src="http://lizhucao.github.io/post-images/1565590404326.png" alt=""></p>
+<p><img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565590404326.png" alt=""></p>
 <h2 id="八丶页面流程">八丶页面流程</h2>
-<p><img src="http://lizhucao.github.io/post-images/1565590430759.png" alt=""><br>
-<img src="http://lizhucao.github.io/post-images/1565590435372.png" alt=""></p>
+<p><img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565590430759.png" alt=""><br>
+<img src="C:/Users/xuguangying/Documents/Gridea/output/post-images/1565590435372.png" alt=""></p>
 <h2 id="九丶原型设计">九丶原型设计</h2>
 <h2 id="十丶考核指标和计算方法">十丶考核指标和计算方法</h2>
 <p>结合数据埋点，将考核指标和计算方法梳理如下所示，通过计算对比优惠券功能上线前后的各项指标具体数据：<br>
