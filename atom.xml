@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://lizhucao.github.io</id>
     <title>Lizhu&apos;s Home</title>
-    <updated>2019-08-12T07:59:27.717Z</updated>
+    <updated>2019-08-12T08:25:09.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://lizhucao.github.io"/>
     <link rel="self" href="http://lizhucao.github.io/atom.xml"/>
@@ -74,6 +74,8 @@
 <p><img src="http://lizhucao.github.io/post-images/1565590430759.png" alt=""><br>
 <img src="http://lizhucao.github.io/post-images/1565590435372.png" alt=""></p>
 <h2 id="九丶原型设计">九丶原型设计</h2>
+<p><img src="http://lizhucao.github.io/post-images/1565598299962.png" alt=""><br>
+<img src="http://lizhucao.github.io/post-images/1565598305342.png" alt=""></p>
 <h2 id="十丶考核指标和计算方法">十丶考核指标和计算方法</h2>
 <p>结合数据埋点，将考核指标和计算方法梳理如下所示，通过计算对比优惠券功能上线前后的各项指标具体数据：<br>
 <strong>1. 分享率</strong><br>
